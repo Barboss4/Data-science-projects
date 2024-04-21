@@ -1,11 +1,13 @@
 # Data-science-projects
 Some datascience projects i used to learn about it
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue)](https://github.com/Barboss4/Risk-of-Heart-Disease/tree/main) Risk of heart diseases: Classification model - This project continues the analysis of heart disease risk by implementing a graphical interface.
+[Risk of heart diseases](https://github.com/Barboss4/Data-science-projects/blob/main/Risk_of_Heart_Disease.ipynb):  Identifying the optimal classification model for analyzing the risk of heart diseases.
 
-Ab test: This project involves conducting an A/B test using two different statistical methods: the Chi-square test and the T-test.
+-  [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue)](https://github.com/Barboss4/Risk-of-Heart-Disease/tree/main) - This project continues the analysis of heart disease risk by implementing a graphical interface.
 
-Frozen lake - The FrozenLake project is an implementation of a reinforcement learning environment for solving a classic problem in artificial intelligence.
+[Ab test](https://github.com/Barboss4/Data-science-projects/blob/main/Teste_A_B.ipynb): This project involves conducting an A/B test using two different statistical methods: the Chi-square test and the T-test.
+
+[Frozenlake](https://github.com/Barboss4/Data-science-projects/blob/main/Frozenlake.ipynb) - The FrozenLake project is an implementation of a reinforcement learning environment for solving a classic problem in artificial intelligence.
 
 # Some usefull links:
 
