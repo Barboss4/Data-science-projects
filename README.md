@@ -21,6 +21,8 @@ Some datascience projects i used to learn about it
 
 ❄️ [Frozenlake](https://github.com/Barboss4/Data-science-projects/blob/main/Frozenlake.ipynb) - The FrozenLake project is an implementation of a reinforcement learning environment for solving a classic problem in artificial intelligence.
 
+🂡🂮 [BlackJack](https://github.com/Barboss4/Repositorio-de-Blackjack-Implementacao-Jogaveis-e-Modelos-de-Aprendizado-por-Reforco) - This repository offers a variety of implementations related to the game of Blackjack, ranging from a playable version to reinforcement learning models. Comprising four distinct codes, each one offers a unique perspective on the game and its applications in machine learning.
+
 
 
 #### Some usefull links:
