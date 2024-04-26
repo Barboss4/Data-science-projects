@@ -9,6 +9,8 @@ Some datascience projects i used to learn about it
 
 📰 [Fake News Detector](https://github.com/Barboss4/Data-science-projects/blob/main/Fake_news_detector.ipynb) - Fake news detection: Feature extraction with NLP, followed by classification using NN and Random Forest for enhanced accuracy.
 
+[CellPhone Pricing](https://github.com/Barboss4/Data-science-projects/blob/main/Pre%C3%A7o_do_celular.ipynb) - Utilizing advanced classification techniques to categorize cellphone descriptions with precision, thereby delineating their corresponding price ranges.
+
 ## Clustering:
 
 🛍️ [Mall_customers](https://github.com/Barboss4/Data-science-projects/blob/main/Mall_customers.ipynb) - This project aims to analyze shopping mall customers' behavior, segment consumption profiles, and optimize business strategies based on data insights.
