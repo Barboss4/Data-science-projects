@@ -11,6 +11,8 @@ Some datascience projects i used to learn about it
 
 📱 [CellPhone Pricing](https://github.com/Barboss4/Data-science-projects/blob/main/Pre%C3%A7o_do_celular.ipynb) - Utilizing advanced classification techniques to categorize cellphone descriptions with precision, thereby delineating their corresponding price ranges.
 
+🏦 [Loan Approval](https://github.com/Barboss4/Data-science-projects/blob/main/Loan_Approval.ipynb) - A loan approval classifier using Random Forest algorithm developed in Google Colab for predicting loan approval based on applicant's features.
+
 ## Clustering:
 
 🛍️ [Mall_customers](https://github.com/Barboss4/Data-science-projects/blob/main/Mall_customers.ipynb) - This project aims to analyze shopping mall customers' behavior, segment consumption profiles, and optimize business strategies based on data insights.
