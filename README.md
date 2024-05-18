@@ -13,6 +13,8 @@ Some datascience projects i used to learn about it
 
 🏦 [Loan Approval](https://github.com/Barboss4/Data-science-projects/blob/main/Loan_Approval.ipynb) - A loan approval classifier using Random Forest algorithm developed in Google Colab for predicting loan approval based on applicant's features.
 
+- [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-red)](https://github.com/Barboss4/Classification-methods/tree/main) - Explore  Classification methods theory by clicking here.
+
 ## Clustering:
 
 🛍️ [Mall_customers](https://github.com/Barboss4/Data-science-projects/blob/main/Mall_customers.ipynb) - This project aims to analyze shopping mall customers' behavior, segment consumption profiles, and optimize business strategies based on data insights.
@@ -21,7 +23,7 @@ Some datascience projects i used to learn about it
  
 - [![webscraping](https://img.shields.io/badge/GitHub-View%20Project-green)](https://github.com/Barboss4/Webscraping-Perfumes) - In this project, I utilize web scraping techniques to gather information about various perfumes. The collected data is then used to perform clustering analysis.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue)](https://github.com/Barboss4/Clustering-Methods) - Explore additional clustering methods by clicking here.
+- [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-red)](https://github.com/Barboss4/Clustering-Methods) - Explore clustering methods theory by clicking here.
 
 ## And more:
 
