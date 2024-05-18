@@ -15,6 +15,10 @@ Some datascience projects i used to learn about it
 
 🛍️ [Mall_customers](https://github.com/Barboss4/Data-science-projects/blob/main/Mall_customers.ipynb) - This project aims to analyze shopping mall customers' behavior, segment consumption profiles, and optimize business strategies based on data insights.
 
+🌸 [Parfum Indication](https://github.com/Barboss4/Data-science-projects/blob/main/Clusteriza%C3%A7%C3%A3o_perfume.ipynb) - This project aims to analyze a list of random perfume notes and design the optimal fragrance for various types of customers. By leveraging data analysis and customer preference modeling, we strive to create personalized perfume blends that cater to individual tastes and preferences.
+ 
+- [![webscraping](https://img.shields.io/badge/GitHub-View%20Project-green)](https://github.com/Barboss4/Webscraping-Perfumes) - In this project, I utilize web scraping techniques to gather information about various perfumes. The collected data is then used to perform clustering analysis.
+
 - [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-blue)](https://github.com/Barboss4/Clustering-Methods) - Explore additional clustering methods by clicking here.
 
 ## And more:
